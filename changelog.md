@@ -2,6 +2,15 @@
 
 All textual changes requiring General Meeting approval will be documented in this file.
 
+##[OGM TT25.1]
+
+-Overhaul room ballot documentation (Appendix C). 
+-Simplified and clarified description of procedure for students returning from years abroad.
+-Better explanation of procedure for suspended students and the system of ballot exemption.
+-Timelines made more flexible: recognises need for negotiations between VP, Academic Registrar and Head of Accommodation.
+
+-Created Slates for joint election of Executive Committee members (Entertainment and Welfare). All candidates run as pairs and are elected in these pairs.
+
 ##[OGM MT24.4]
 
 - Created the Arts Sponsorship Fund for funding arts projects by JCR members, rather than through motions
