@@ -2,6 +2,10 @@
 
 All textual changes requiring General Meeting approval will be documented in this file.
 
+##[OGM MT24.4]
+
+- Created the Arts Sponsorship Fund for funding arts projects by JCR members, rather than through motions
+
 ## [OGM TT24.4] - 2024-06-02
 
  - Update Role Description for the Academic Affairs Officer, and create agreement procedure for Joint-Subject Subject Society funding.
