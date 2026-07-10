@@ -2,14 +2,18 @@
 
 All textual changes requiring General Meeting approval will be documented in this file.
 
-##[OGM TT25.4]
+## [OGM HT26.1]
+
+- Created the role of First Year Students' Representative
+
+## [OGM TT25.4]
 
 - Merged the Social Media and Publications Officer with the Arts and Culture Representative as the Arts and Publications Officer.
 - Passed responsibility for the Freshers' Guide to the Access and Equal Opportunities Representative.
 - Update role description for President
 - Update Affiliated Orgs Rep and Food & Bar Rep role descriptions w/r/t affiliation with Peterhouse.
 
-##[OGM TT25.1]
+## [OGM TT25.1]
 
 - Overhaul room ballot documentation (Appendix C). 
 - Simplified and clarified description of procedure for students returning from years abroad.
@@ -18,7 +22,7 @@ All textual changes requiring General Meeting approval will be documented in thi
 
 - Created Slates for joint election of Executive Committee members (Entertainment and Welfare). All candidates run as pairs and are elected in these pairs.
 
-##[OGM MT24.4]
+## [OGM MT24.4]
 
 - Created the Arts Sponsorship Fund for funding arts projects by JCR members, rather than through motions
 
