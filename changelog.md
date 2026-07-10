@@ -2,6 +2,10 @@
 
 All textual changes requiring General Meeting approval will be documented in this file.
 
+## [OGM HT26.2]
+
+- Clarified when food donation box should be donated
+
 ## [OGM HT26.1]
 
 - Created the role of First Year Students' Representative
