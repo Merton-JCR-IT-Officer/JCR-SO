@@ -27,7 +27,7 @@
 
 \RequirePackage{enumitem}
 \setlist[enumerate]{topsep=3pt, parsep=0pt}
-\setlist[enumerate,1]{label=\roman*.,align=left,ref=(\roman*)}
+\setlist[enumerate,1]{label=\roman*.,align=left,ref=\roman*}
 
 \chapterstyle{hangnum}
 \renewcommand*{\chaptitlefont}{\huge\bfseries}
