@@ -2,13 +2,13 @@
 
 All textual changes requiring General Meeting approval will be documented in this file.
 
-## [OGM HT26.4]
+## [OGM TT26.4]
 
 - Formalised the Internation Parenting Scheme
 - Update role descriptions for Access and Equal Opportunities Representative and International Student Representative to secure appropriate representation of international students among Student Ambassadors at Open Days
 - Extend the International Students' Programme
 
-## [OGM HT26.2]
+## [OGM TT26.2]
 
 - Clarified when food donation box should be donated
 
