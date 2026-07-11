@@ -22,6 +22,9 @@
 \RequirePackage{alphalph}
 \RequirePackage[utf8]{inputenc}
 
+\RequirePackage[autostyle, english = british]{csquotes}
+\MakeOuterQuote{"}
+
 \setsecnumdepth{subparagraph}
 \setcounter{tocdepth}{1}
 
